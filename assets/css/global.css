@@ -100,10 +100,12 @@ a{
 }
 
 .hero .buttons button {
-    background-color: var(--header-btn-color);
-    border: none;
+    background-color: #3A68B8;
+    color: #fff;
     padding: 15px 30px;
-    color: #fff
+    border: none;
+    margin-top: 5px;
+    border-radius: 5px;
 }
 
 .hero .buttons button img {
